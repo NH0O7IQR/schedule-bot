@@ -1,6 +1,7 @@
 vk_api
+requests
 pandas
 openpyxl
 xlrd
 icalendar
-requests
+tzdata
