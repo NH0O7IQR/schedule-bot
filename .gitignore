@@ -1,0 +1,4 @@
+schedule.xls
+schedule.xlsx
+*.tmp
+__pycache__/
