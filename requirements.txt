@@ -1,0 +1,6 @@
+vk_api
+pandas
+openpyxl
+xlrd
+icalendar
+requests
