@@ -2,1718 +2,2153 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//VK Schedule Bot//RU
 X-WR-CALNAME:Study
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261228T090000
-DTEND;TZID=Europe/Moscow:20261228T102000
-UID:7bc1b76886c2cd73ad24764ef50ce8a1@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:А305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261228T103000
-DTEND;TZID=Europe/Moscow:20261228T115000
-UID:b64b40c63d7b80a62dd6ea39003165be@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:А305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261228T124000
-DTEND;TZID=Europe/Moscow:20261228T140000
-UID:d4536196efa1969083c8500a8d77596f@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:А305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260929T090000
-DTEND;TZID=Europe/Moscow:20260929T102000
-UID:e5b18254ab9fed4608227d17a94e3489@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261006T090000
-DTEND;TZID=Europe/Moscow:20261006T102000
-UID:d399cfd81eb0c10477f11b1772976ceb@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261013T090000
-DTEND;TZID=Europe/Moscow:20261013T102000
-UID:ba7e45db4f2959ddcd13952fd2b6bf7d@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б333
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261020T090000
-DTEND;TZID=Europe/Moscow:20261020T102000
-UID:9c3f81e1e3b15f36f01574e394ea96fe@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261027T090000
-DTEND;TZID=Europe/Moscow:20261027T102000
-UID:f0a0c299fef33727623019f08cee9cde@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б231
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261103T090000
-DTEND;TZID=Europe/Moscow:20261103T102000
-UID:a3710748fe554dcdf85326a3039ed162@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261110T090000
-DTEND;TZID=Europe/Moscow:20261110T102000
-UID:882d7bbb3f30519a1e711d983c67c92e@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261117T090000
-DTEND;TZID=Europe/Moscow:20261117T102000
-UID:4cecf0d7f39a9d1a61cf5577c2817b4a@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261124T090000
-DTEND;TZID=Europe/Moscow:20261124T102000
-UID:5bb9a511a65783d53f6284263d7ce978@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261201T090000
-DTEND;TZID=Europe/Moscow:20261201T102000
-UID:d83be38c591952095bb6ea8f27ce5d9a@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261208T090000
-DTEND;TZID=Europe/Moscow:20261208T102000
-UID:4f2b2d941de1f4d15e0cf0a2fb4a490b@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А415
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:конс.УП: Переводческая практика
-DTSTART;TZID=Europe/Moscow:20260901T103000
-DTEND;TZID=Europe/Moscow:20260901T115000
-UID:988e99f2c75e05ce9ab141630700e153@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
+DTSTART:20260901T073000Z
+DTEND:20260901T085000Z
+DTSTAMP:20261019T150050Z
+UID:9ab0aadab5bbda8fd715be4a9c78887c@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260901T094000Z
+DTEND:20260901T110000Z
+DTSTAMP:20261019T150050Z
+UID:3943ec8b59322a765bce28f59c7146f3@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс общественно-по
  литического перевода
-DTSTART;TZID=Europe/Moscow:20260915T103000
-DTEND;TZID=Europe/Moscow:20260915T115000
-UID:c4017a12f756629c0d19b7455226bba5@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
+DTSTART:20260902T073000Z
+DTEND:20260902T085000Z
+DTSTAMP:20261019T150050Z
+UID:6ae7e56c762e7806dcbf36c9edb0149a@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260929T103000
-DTEND;TZID=Europe/Moscow:20260929T115000
-UID:c49a2c4c0fb35cdf9a09797f0f4f765a@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261006T103000
-DTEND;TZID=Europe/Moscow:20261006T115000
-UID:5050c4c45b750f63ccaa582d6bde2074@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
+SUMMARY:лек.Предпереводческий анализ текст
+ а
+DTSTART:20260902T094000Z
+DTEND:20260902T110000Z
+DTSTAMP:20261019T150050Z
+UID:9c7287a47f0246b6860c37f66a36ad82@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А306
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261013T103000
-DTEND;TZID=Europe/Moscow:20261013T115000
-UID:26bd996c9cd4f6869e29622b4541a98b@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
+DTSTART:20260902T111000Z
+DTEND:20260902T123000Z
+DTSTAMP:20261019T150050Z
+UID:56c05daf68193d41d520f640b3b224d9@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б333
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261020T103000
-DTEND;TZID=Europe/Moscow:20261020T115000
-UID:ca2c2c647c4ba200ece274fa8132b284@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261027T103000
-DTEND;TZID=Europe/Moscow:20261027T115000
-UID:af0dbd025fb409380cc93741da5996bf@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А402
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261103T103000
-DTEND;TZID=Europe/Moscow:20261103T115000
-UID:b9f7893822fcf7f826d630eaa51d2138@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261110T103000
-DTEND;TZID=Europe/Moscow:20261110T115000
-UID:b87ef639f91fe6f6aeb2ebe7b36b6b9f@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261117T103000
-DTEND;TZID=Europe/Moscow:20261117T115000
-UID:2b23408d9436bcae60330800aad5fe49@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261124T103000
-DTEND;TZID=Europe/Moscow:20261124T115000
-UID:b35b04badde1b5f215e21db678f8a054@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261201T103000
-DTEND;TZID=Europe/Moscow:20261201T115000
-UID:fad010e905fcfa715234cd5d0919b7bc@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260903T073000Z
+DTEND:20260903T085000Z
+DTSTAMP:20261019T150050Z
+UID:db0da479292917b3fde2314b28c2b50b@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261208T103000
-DTEND;TZID=Europe/Moscow:20261208T115000
-UID:b69659ba75c58b19ab81c866a721f28e@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А415
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260901T124000
-DTEND;TZID=Europe/Moscow:20260901T140000
-UID:ca79c66cdab4bc123bad2c6eff8c63a0@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260915T124000
-DTEND;TZID=Europe/Moscow:20260915T140000
-UID:be916b63f1a6167906225f9c5c28adb6@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А311
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260922T124000
-DTEND;TZID=Europe/Moscow:20260922T140000
-UID:bbf72f872365eb4280696e31e18eee26@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс английского яз
  ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261020T124000
-DTEND;TZID=Europe/Moscow:20261020T140000
-UID:d3a5f80e96e8f91bc8d37e82ad2c7c0d@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
+DTSTART:20260903T094000Z
+DTEND:20260903T110000Z
+DTSTAMP:20261019T150050Z
+UID:33f4e81be235d1970905e0e21249157a@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261027T124000
-DTEND;TZID=Europe/Moscow:20261027T140000
-UID:1520ae9a65c597ea350188460a66564a@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:Б331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261103T124000
-DTEND;TZID=Europe/Moscow:20261103T140000
-UID:65d33d1ca85645fa449fce44400ca53a@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б131
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261117T124000
-DTEND;TZID=Europe/Moscow:20261117T140000
-UID:1f8acaf48ad11f8ba3bfd06bf44b858b@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261201T124000
-DTEND;TZID=Europe/Moscow:20261201T140000
-UID:f31a111e417400b73ef186dd4f76a819@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260915T141000
-DTEND;TZID=Europe/Moscow:20260915T153000
-UID:3c17081a5c0ce6d39e537b05a7160c53@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А311
+DTSTART:20260903T111000Z
+DTEND:20260903T123000Z
+DTSTAMP:20261019T150050Z
+UID:34380b86e7f9141eaa26790677e6d219@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А302
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260922T141000
-DTEND;TZID=Europe/Moscow:20260922T153000
-UID:e0989fdf5f0f71414216ae331e314d82@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261020T141000
-DTEND;TZID=Europe/Moscow:20261020T153000
-UID:0e5bfc6f91c8afdeac5836dd129c6067@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261103T141000
-DTEND;TZID=Europe/Moscow:20261103T153000
-UID:ae84856757766cf0db9f19e6d24202e5@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б131
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261201T141000
-DTEND;TZID=Europe/Moscow:20261201T153000
-UID:b6551a58f4660c2d40f930531835d267@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:А203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20260915T154000
-DTEND;TZID=Europe/Moscow:20260915T170000
-UID:321a2604566aed923b4d856760367fe1@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260909T090000
-DTEND;TZID=Europe/Moscow:20260909T102000
-UID:ec85aaa3bb105c87c8c3edced145bf54@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260923T090000
-DTEND;TZID=Europe/Moscow:20260923T102000
-UID:55e9ec654b15ea32fc06e32f8216eda9@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260930T090000
-DTEND;TZID=Europe/Moscow:20260930T102000
-UID:6e674c6e7215730fb3aefec8c9a7d4e3@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261007T090000
-DTEND;TZID=Europe/Moscow:20261007T102000
-UID:ab5409ca08f3695d205de5f761567684@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261014T090000
-DTEND;TZID=Europe/Moscow:20261014T102000
-UID:b56f62f6fc4fcef2def522688eced408@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261021T090000
-DTEND;TZID=Europe/Moscow:20261021T102000
-UID:a15bb62662a87293d79fdc729c8f15c7@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261028T090000
-DTEND;TZID=Europe/Moscow:20261028T102000
-UID:737f7a01898cced776016d7484d938a7@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261111T090000
-DTEND;TZID=Europe/Moscow:20261111T102000
-UID:7e523d6fad3224fe86e01c2011922b61@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261118T090000
-DTEND;TZID=Europe/Moscow:20261118T102000
-UID:936b43cf587b294c6f2ca84d50a1786d@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261125T090000
-DTEND;TZID=Europe/Moscow:20261125T102000
-UID:72eb0eea82ac5581f90d954f66f3e577@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261202T090000
-DTEND;TZID=Europe/Moscow:20261202T102000
-UID:723053ed36ada2a426682d9f2ed0f84c@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261209T090000
-DTEND;TZID=Europe/Moscow:20261209T102000
-UID:660d5e0516c02e9f839503175658c371@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261216T090000
-DTEND;TZID=Europe/Moscow:20261216T102000
-UID:6da0602fffadabc7daaf5fb338810baa@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261223T090000
-DTEND;TZID=Europe/Moscow:20261223T102000
-UID:28572f907cda49016283f65f37f5a038@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260902T103000
-DTEND;TZID=Europe/Moscow:20260902T115000
-UID:c4fde36164e3db19abd5d90b2cf193a2@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260909T103000
-DTEND;TZID=Europe/Moscow:20260909T115000
-UID:9a29e4dc1d0ffc59587859329e9d210c@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260916T103000
-DTEND;TZID=Europe/Moscow:20260916T115000
-UID:bfcbcf3ab4b16767a0a25ebfa617611f@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260923T103000
-DTEND;TZID=Europe/Moscow:20260923T115000
-UID:8086d2919695ddc6f8e0848f3b5da1ec@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260930T103000
-DTEND;TZID=Europe/Moscow:20260930T115000
-UID:cd08c19b8ae4ca4ca204c905420ae0dc@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261007T103000
-DTEND;TZID=Europe/Moscow:20261007T115000
-UID:3cec9d8f09e9544520a6ba90b474d334@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261014T103000
-DTEND;TZID=Europe/Moscow:20261014T115000
-UID:e2cbb15fdbf776210e6ad130f9d5b44e@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261021T103000
-DTEND;TZID=Europe/Moscow:20261021T115000
-UID:7735262057966e4edcd3c0841fa24158@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261028T103000
-DTEND;TZID=Europe/Moscow:20261028T115000
-UID:843a129472747d016279fdad6cbf198b@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261111T103000
-DTEND;TZID=Europe/Moscow:20261111T115000
-UID:2c413ac7e5e2cf6ae6fb2d18f84a3954@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261118T103000
-DTEND;TZID=Europe/Moscow:20261118T115000
-UID:6bd66694e02938e8e4d7aaa68402c521@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261125T103000
-DTEND;TZID=Europe/Moscow:20261125T115000
-UID:8f01d5e01a5647aed89c6ca9511d8bf1@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261202T103000
-DTEND;TZID=Europe/Moscow:20261202T115000
-UID:004ff8124bf273c5353bfa345431f37f@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261209T103000
-DTEND;TZID=Europe/Moscow:20261209T115000
-UID:0b3c266f4833fb6ea0d69e6954751f31@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261216T103000
-DTEND;TZID=Europe/Moscow:20261216T115000
-UID:36a0c4c14afeead81eea2b0acd36f1f5@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20261223T103000
-DTEND;TZID=Europe/Moscow:20261223T115000
-UID:fb0bdc2478daff7365074fb8e8aa4663@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лек.Предпереводческий анализ текст
- а
-DTSTART;TZID=Europe/Moscow:20260902T124000
-DTEND;TZID=Europe/Moscow:20260902T140000
-UID:162d9e220b0652a16ee77e452562a99f@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лек.Предпереводческий анализ текст
- а
-DTSTART;TZID=Europe/Moscow:20260909T124000
-DTEND;TZID=Europe/Moscow:20260909T140000
-UID:9fa141e47b19eb1e0eb5135212d096fa@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
+DTSTART:20260904T073000Z
+DTEND:20260904T085000Z
+DTSTAMP:20261019T150050Z
+UID:b3db96eae39d1ef7b294716669907101@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А032
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:лек.История языка
-DTSTART;TZID=Europe/Moscow:20260916T124000
-DTEND;TZID=Europe/Moscow:20260916T140000
-UID:1883d81c27e152806d94e787deccb458@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
+DTSTART:20260904T094000Z
+DTEND:20260904T110000Z
+DTSTAMP:20261019T150050Z
+UID:afdc0e8f6e947526ea6442e5c0d7bd44@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:лек.История языка
-DTSTART;TZID=Europe/Moscow:20260923T124000
-DTEND;TZID=Europe/Moscow:20260923T140000
-UID:94f20e450d72f2ce8634ddc2d8492532@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260904T111000Z
+DTEND:20260904T123000Z
+DTSTAMP:20261019T150050Z
+UID:936309ce0b94db51b81ca8a614ab4ee7@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:лек.История языка
-DTSTART;TZID=Europe/Moscow:20260930T124000
-DTEND;TZID=Europe/Moscow:20260930T140000
-UID:c067d41da6b88c3365ecc2d18ad16d04@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260909T060000Z
+DTEND:20260909T072000Z
+DTSTAMP:20261019T150050Z
+UID:2b0bcc5dae540598022dfe67b61da65b@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260909T073000Z
+DTEND:20260909T085000Z
+DTSTAMP:20261019T150050Z
+UID:05af76e61a76d1baa235b499e3e3658e@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:лек.Предпереводческий анализ текст
  а
-DTSTART;TZID=Europe/Moscow:20261007T124000
-DTEND;TZID=Europe/Moscow:20261007T140000
-UID:67ce807f615153896d8ec1a14b45de65@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лек.Предпереводческий анализ текст
- а
-DTSTART;TZID=Europe/Moscow:20261021T124000
-DTEND;TZID=Europe/Moscow:20261021T140000
-UID:6f53f3c40fba03c0c0478951fa29fcbe@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
+DTSTART:20260909T094000Z
+DTEND:20260909T110000Z
+DTSTAMP:20261019T150050Z
+UID:d0aa269a7b85e70376d619878632a7c3@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А306
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:лаб.Информационные технологии в лин
  гвистике
-DTSTART;TZID=Europe/Moscow:20261111T124000
-DTEND;TZID=Europe/Moscow:20261111T140000
-UID:954adbacfe381609c4df3869e57cd449@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261118T124000
-DTEND;TZID=Europe/Moscow:20261118T140000
-UID:0f2e3814e4d8f99a119e30c4e308febb@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б427
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261125T124000
-DTEND;TZID=Europe/Moscow:20261125T140000
-UID:f055a73f0e324b176ec5f037826cc06b@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261216T124000
-DTEND;TZID=Europe/Moscow:20261216T140000
-UID:392a01b1575eb6c0973c2dc76e04433d@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б427
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261223T124000
-DTEND;TZID=Europe/Moscow:20261223T140000
-UID:6c9ab594ea937fbd444ef2630308a70e@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260902T141000
-DTEND;TZID=Europe/Moscow:20260902T153000
-UID:a6c222abbbcba4dd8ef7a1dfbd05e6e7@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б333
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20260909T141000
-DTEND;TZID=Europe/Moscow:20260909T153000
-UID:5b10513f940530276827a691a1e2d074@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
+DTSTART:20260909T111000Z
+DTEND:20260909T123000Z
+DTSTAMP:20261019T150050Z
+UID:6b67715d092217537676754aa52aa263@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А408
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261111T141000
-DTEND;TZID=Europe/Moscow:20261111T153000
-UID:0c8df2f121e223de2ce9d4822fd6e899@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261125T141000
-DTEND;TZID=Europe/Moscow:20261125T153000
-UID:ece99c64d47796d049170be00cd1b281@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20260924T090000
-DTEND;TZID=Europe/Moscow:20260924T102000
-UID:2dd5e89133f9b8c2741e0c40fdf14cb2@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261001T090000
-DTEND;TZID=Europe/Moscow:20261001T102000
-UID:9913fc575d58ecddf65937d3e528e840@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261008T090000
-DTEND;TZID=Europe/Moscow:20261008T102000
-UID:9e260c55c8e9ed89f9343a519be1c544@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261022T090000
-DTEND;TZID=Europe/Moscow:20261022T102000
-UID:8b20eb2b57bf7f4f741951d5496c2b8f@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А402
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261029T090000
-DTEND;TZID=Europe/Moscow:20261029T102000
-UID:7caccbfe30d175430beb71d83e8915e8@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261105T090000
-DTEND;TZID=Europe/Moscow:20261105T102000
-UID:a9b02e4a2ae4cd2590f9776c5219a5a1@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А202а
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261119T090000
-DTEND;TZID=Europe/Moscow:20261119T102000
-UID:a2872c76e277b0057c1f8551ee7a03da@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261203T090000
-DTEND;TZID=Europe/Moscow:20261203T102000
-UID:245b67f729f91b8a319b36dd7cf27a87@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А202а
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261224T090000
-DTEND;TZID=Europe/Moscow:20261224T102000
-UID:5e6f19bcec74c2c056a81fd7b699af88@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260903T103000
-DTEND;TZID=Europe/Moscow:20260903T115000
-UID:ca2e8c69c7d4050d881f44b04c1a53ff@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260910T103000
-DTEND;TZID=Europe/Moscow:20260910T115000
-UID:31bd57a3a8824d670cc427cb9aa2b33e@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20260910T073000Z
+DTEND:20260910T085000Z
+DTSTAMP:20261019T150050Z
+UID:e6ff492a13d7dd7863582a93e96856c2@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б433
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260924T103000
-DTEND;TZID=Europe/Moscow:20260924T115000
-UID:136c07b12f62ecd5ae80d24e380152d2@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261001T103000
-DTEND;TZID=Europe/Moscow:20261001T115000
-UID:cd5b637169a350e4ab293bd6f3e4138a@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261008T103000
-DTEND;TZID=Europe/Moscow:20261008T115000
-UID:5b11a6ba112a3bb74490aa8c0eabbf60@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А407
+SUMMARY:пр.История языка
+DTSTART:20260910T094000Z
+DTEND:20260910T110000Z
+DTSTAMP:20261019T150050Z
+UID:abe5b9075064b29b0157a463a890caea@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Аудио-визуальный курс китайского
   языка
-DTSTART;TZID=Europe/Moscow:20261015T103000
-DTEND;TZID=Europe/Moscow:20261015T115000
-UID:6c049856b61338f098eb69fbcf62245a@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А205
+DTSTART:20260910T111000Z
+DTEND:20260910T123000Z
+DTSTAMP:20261019T150050Z
+UID:cf2e0a1a2af8619664f1cf2cf75e0900@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261022T103000
-DTEND;TZID=Europe/Moscow:20261022T115000
-UID:3b23400e5d6b865eb0317b6713643d1b@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
+DTSTART:20260911T060000Z
+DTEND:20260911T072000Z
+DTSTAMP:20261019T150050Z
+UID:732e85f6f2b70e1e26a70b1ca85406c7@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260911T073000Z
+DTEND:20260911T085000Z
+DTSTAMP:20261019T150050Z
+UID:621432bae812f73ceeab9ff9033cd7c9@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260912T060000Z
+DTEND:20260912T072000Z
+DTSTAMP:20261019T150050Z
+UID:7187023187d6ab7bff8b8e9dfb981e1d@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260912T073000Z
+DTEND:20260912T085000Z
+DTSTAMP:20261019T150050Z
+UID:97e24f7812a254dd99d4bfdeaaf4fbb0@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260912T094000Z
+DTEND:20260912T110000Z
+DTSTAMP:20261019T150050Z
+UID:b284b17609c0ea1b996b382c1bb0cbbd@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202а
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260915T073000Z
+DTEND:20260915T085000Z
+DTSTAMP:20261019T150050Z
+UID:3524319ef8aec69370d4d504a1529ca7@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260915T094000Z
+DTEND:20260915T110000Z
+DTSTAMP:20261019T150050Z
+UID:667707ae716e617736a0e82d269fc4bc@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260915T111000Z
+DTEND:20260915T123000Z
+DTSTAMP:20261019T150050Z
+UID:9b3eb18eb367f851ec1afda69c3974b4@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20260915T124000Z
+DTEND:20260915T140000Z
+DTSTAMP:20261019T150050Z
+UID:537c1164bed41b251bb46d4e9e54b4fe@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260916T073000Z
+DTEND:20260916T085000Z
+DTSTAMP:20261019T150050Z
+UID:b346b792357aad08c00d3eb901ea2813@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лек.История языка
+DTSTART:20260916T094000Z
+DTEND:20260916T110000Z
+DTSTAMP:20261019T150050Z
+UID:cc1d79eda9a16bf39ce2831a1a14aef3@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20260917T094000Z
+DTEND:20260917T110000Z
+DTSTAMP:20261019T150050Z
+UID:c50f99e5b08af7c057266c1807da2f13@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20260917T111000Z
+DTEND:20260917T123000Z
+DTSTAMP:20261019T150050Z
+UID:1c32a3ec22ff3cc8bc39ca74a2e2d583@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260919T060000Z
+DTEND:20260919T072000Z
+DTSTAMP:20261019T150050Z
+UID:5e594c77e9b9c8a1de3be4ff1824f369@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260919T073000Z
+DTEND:20260919T085000Z
+DTSTAMP:20261019T150050Z
+UID:bd47656c24fb895dcbcf148c57bd9108@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260919T094000Z
+DTEND:20260919T110000Z
+DTSTAMP:20261019T150050Z
+UID:3786b551793d0dbdca2bb813f11f03de@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260919T111000Z
+DTEND:20260919T123000Z
+DTSTAMP:20261019T150050Z
+UID:51c9d9fb12a95ae740bcfa4ecd711209@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260922T094000Z
+DTEND:20260922T110000Z
+DTSTAMP:20261019T150050Z
+UID:bfc42a8768b128f7ded7c3f46858884d@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260922T111000Z
+DTEND:20260922T123000Z
+DTSTAMP:20261019T150050Z
+UID:f041efe68ef98337f9dd73dc28449514@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260923T060000Z
+DTEND:20260923T072000Z
+DTSTAMP:20261019T150050Z
+UID:13e73ddc1bb8d7b06f147116e56718fb@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260923T073000Z
+DTEND:20260923T085000Z
+DTSTAMP:20261019T150050Z
+UID:32c0a8b2c6876386a0a6a7ac83f225a7@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лек.История языка
+DTSTART:20260923T094000Z
+DTEND:20260923T110000Z
+DTSTAMP:20261019T150050Z
+UID:25eabe87d781c3d01008dd5331a7f92d@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20260924T060000Z
+DTEND:20260924T072000Z
+DTSTAMP:20261019T150050Z
+UID:57360c8f15a3db93769efd4c3f2e755a@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260924T073000Z
+DTEND:20260924T085000Z
+DTSTAMP:20261019T150050Z
+UID:8774a5495c042b64ab4a493be64bc3ff@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20260924T094000Z
+DTEND:20260924T110000Z
+DTSTAMP:20261019T150050Z
+UID:f5a07dcca4fbe975780e0c2dccf76788@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20260924T111000Z
+DTEND:20260924T123000Z
+DTSTAMP:20261019T150050Z
+UID:233fedb0ade09626210df3ff0771dde3@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260926T060000Z
+DTEND:20260926T072000Z
+DTSTAMP:20261019T150050Z
+UID:c75a382a2d9bb1c3d80bc449f604bc3c@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20260926T073000Z
+DTEND:20260926T085000Z
+DTSTAMP:20261019T150050Z
+UID:c6f5e32de4bb8ad0c6b091a2fc63f157@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260926T094000Z
+DTEND:20260926T110000Z
+DTSTAMP:20261019T150050Z
+UID:9300d0fce22a2444124416478b7f104a@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260929T060000Z
+DTEND:20260929T072000Z
+DTSTAMP:20261019T150050Z
+UID:f8f53290911594ad37fdca02f8e717ff@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20260929T073000Z
+DTEND:20260929T085000Z
+DTSTAMP:20261019T150050Z
+UID:ed0c43c9269a2b7cea53c0691ba06fe9@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260930T060000Z
+DTEND:20260930T072000Z
+DTSTAMP:20261019T150050Z
+UID:65f38b93c70bf10033c6b71291fb5145@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20260930T073000Z
+DTEND:20260930T085000Z
+DTSTAMP:20261019T150050Z
+UID:c119e3f30900607f00e74c3672036c19@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лек.История языка
+DTSTART:20260930T094000Z
+DTEND:20260930T110000Z
+DTSTAMP:20261019T150050Z
+UID:ad0e69276aba5b8d22b8f2e72fad14ba@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261001T060000Z
+DTEND:20261001T072000Z
+DTSTAMP:20261019T150050Z
+UID:901a4dcc42e0901f366fa30c47efa525@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261001T073000Z
+DTEND:20261001T085000Z
+DTSTAMP:20261019T150050Z
+UID:362fdf5ae81e8b884d6bb22d612fd924@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261001T094000Z
+DTEND:20261001T110000Z
+DTSTAMP:20261019T150050Z
+UID:db4f824d6433b31a8e92c54482ddc8eb@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261001T111000Z
+DTEND:20261001T123000Z
+DTSTAMP:20261019T150050Z
+UID:08d8f2b5650c1cf97b7e088c95248b0b@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261003T073000Z
+DTEND:20261003T085000Z
+DTSTAMP:20261019T150050Z
+UID:3349c9e5584acaffff6327b2f4fffd97@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261003T094000Z
+DTEND:20261003T110000Z
+DTSTAMP:20261019T150050Z
+UID:1268ff0af047b313b6f3c673893dd474@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261003T111000Z
+DTEND:20261003T123000Z
+DTSTAMP:20261019T150050Z
+UID:b8ddf6d664387d18d2220e6ea0adf503@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261006T060000Z
+DTEND:20261006T072000Z
+DTSTAMP:20261019T150050Z
+UID:366f2d0ce2f867898172dd4afd1d46da@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261006T073000Z
+DTEND:20261006T085000Z
+DTSTAMP:20261019T150050Z
+UID:213cb7660cea79da2f43e70c8cc63b9a@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261007T060000Z
+DTEND:20261007T072000Z
+DTSTAMP:20261019T150050Z
+UID:97d6faffb5f63a99ce6688782b29266a@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261007T073000Z
+DTEND:20261007T085000Z
+DTSTAMP:20261019T150050Z
+UID:1bd4321c2a64a22e1654a4772bf3e3c9@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лек.Предпереводческий анализ текст
+ а
+DTSTART:20261007T094000Z
+DTEND:20261007T110000Z
+DTSTAMP:20261019T150050Z
+UID:926e818c07af44f41f3fb4421996afaf@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261008T060000Z
+DTEND:20261008T072000Z
+DTSTAMP:20261019T150050Z
+UID:df234bd0e4118a8725fcf71589800222@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261008T073000Z
+DTEND:20261008T085000Z
+DTSTAMP:20261019T150050Z
+UID:003ebb6414b773e46b6dfe25dd4278cd@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261008T094000Z
+DTEND:20261008T110000Z
+DTSTAMP:20261019T150050Z
+UID:6c153073d750d188b59b489ef4eb8c57@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261008T111000Z
+DTEND:20261008T123000Z
+DTSTAMP:20261019T150050Z
+UID:c453c43dc15909e74c73e4f8a4a0e62d@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261010T060000Z
+DTEND:20261010T072000Z
+DTSTAMP:20261019T150050Z
+UID:23e627ac6fc3270e0434b8d27fbeddc5@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261010T073000Z
+DTEND:20261010T085000Z
+DTSTAMP:20261019T150050Z
+UID:accc4246162b30ce640e58aa662b5c3e@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261013T060000Z
+DTEND:20261013T072000Z
+DTSTAMP:20261019T150050Z
+UID:e7d102b45f38b85bbbb21b3ef45c4ab0@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261013T073000Z
+DTEND:20261013T085000Z
+DTSTAMP:20261019T150050Z
+UID:7737655670e9626af0e02071ce223d0a@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261014T060000Z
+DTEND:20261014T072000Z
+DTSTAMP:20261019T150050Z
+UID:2c810a2e45aafb5975f9aef7315864bd@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261014T073000Z
+DTEND:20261014T085000Z
+DTSTAMP:20261019T150050Z
+UID:806892c6621f81f038c5fa35580358eb@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261015T073000Z
+DTEND:20261015T085000Z
+DTSTAMP:20261019T150050Z
+UID:8995c5243ed765e18d5f233c57cd41fe@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261015T094000Z
+DTEND:20261015T110000Z
+DTSTAMP:20261019T150050Z
+UID:d75acff2b295a8361f676a65221e30a8@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261015T111000Z
+DTEND:20261015T123000Z
+DTSTAMP:20261019T150050Z
+UID:0e5eb2d2960a243973d4871cb5d322df@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261015T124000Z
+DTEND:20261015T140000Z
+DTSTAMP:20261019T150050Z
+UID:fcfff01590320921da293a00e23e4457@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261017T073000Z
+DTEND:20261017T085000Z
+DTSTAMP:20261019T150050Z
+UID:71e7d29a6f94ce45d2a8b740319cfae3@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261017T094000Z
+DTEND:20261017T110000Z
+DTSTAMP:20261019T150050Z
+UID:75b81c5f8c3e247b4717b306cd757ef0@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261017T111000Z
+DTEND:20261017T123000Z
+DTSTAMP:20261019T150050Z
+UID:a799d74e4cee3cc09fb083a0d06ff9b3@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261020T060000Z
+DTEND:20261020T072000Z
+DTSTAMP:20261019T150050Z
+UID:367b339f1dd03aaa78d3e2cbc833ff0f@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261020T073000Z
+DTEND:20261020T085000Z
+DTSTAMP:20261019T150050Z
+UID:940a76ae55fd2a59b7ced54fba0886a7@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261020T094000Z
+DTEND:20261020T110000Z
+DTSTAMP:20261019T150050Z
+UID:748ed32fa5c15bdc56a9ad7d690f051b@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261020T111000Z
+DTEND:20261020T123000Z
+DTSTAMP:20261019T150050Z
+UID:1289b92a91703425eab1cb4e75892f2f@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261021T060000Z
+DTEND:20261021T072000Z
+DTSTAMP:20261019T150050Z
+UID:7415a88cda45c43514e9614aace461ba@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261021T073000Z
+DTEND:20261021T085000Z
+DTSTAMP:20261019T150050Z
+UID:bc0713621b05066cf8ad7c551034dc4f@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лек.Предпереводческий анализ текст
+ а
+DTSTART:20261021T094000Z
+DTEND:20261021T110000Z
+DTSTAMP:20261019T150050Z
+UID:2291808685af9b08cd2efe37c842ad73@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261022T060000Z
+DTEND:20261022T072000Z
+DTSTAMP:20261019T150050Z
+UID:e07d3d8a3b58c3c7a2676e475d76efd7@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261022T073000Z
+DTEND:20261022T085000Z
+DTSTAMP:20261019T150050Z
+UID:615b037a20e0fb76d2a559a7666361d2@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261022T094000Z
+DTEND:20261022T110000Z
+DTSTAMP:20261019T150050Z
+UID:e47d8e7495f740ecbcef8de8ece9dbb6@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261027T060000Z
+DTEND:20261027T072000Z
+DTSTAMP:20261019T150050Z
+UID:dcad12fd598cfd2cbb7e1a8ad0a5e0a6@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261027T073000Z
+DTEND:20261027T085000Z
+DTSTAMP:20261019T150050Z
+UID:36b4b413d3428bacf39ff9ecf253aeae@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А402
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Аудио-визуальный курс китайского
   языка
-DTSTART;TZID=Europe/Moscow:20261029T103000
-DTEND;TZID=Europe/Moscow:20261029T115000
-UID:5ff6360f0b10b738c0a119e21f9b6e05@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А201
+DTSTART:20261027T094000Z
+DTEND:20261027T110000Z
+DTSTAMP:20261019T150050Z
+UID:d9a4c6b5398f905398afe7211d7672ff@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261028T060000Z
+DTEND:20261028T072000Z
+DTSTAMP:20261019T150050Z
+UID:da30dc3f6388d62e1025bd2dfdde1be4@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261028T073000Z
+DTEND:20261028T085000Z
+DTSTAMP:20261019T150050Z
+UID:09d087e2539dec4e60de563a5882d96d@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:лаб.Информационные технологии в лин
  гвистике
-DTSTART;TZID=Europe/Moscow:20261105T103000
-DTEND;TZID=Europe/Moscow:20261105T115000
-UID:c38b8e728f0ace7c55cf385ba21285dd@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
+DTSTART:20261029T060000Z
+DTEND:20261029T072000Z
+DTSTAMP:20261019T150050Z
+UID:a5698142af684541b886705396c93388@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А407
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Аудио-визуальный курс китайского
   языка
-DTSTART;TZID=Europe/Moscow:20261112T103000
-DTEND;TZID=Europe/Moscow:20261112T115000
-UID:41aa3a5313497c67a01543232af50e1e@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
+DTSTART:20261029T073000Z
+DTEND:20261029T085000Z
+DTSTAMP:20261019T150050Z
+UID:d5877d1305f9b1a1f5c6c1b3d750a876@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А201
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261119T103000
-DTEND;TZID=Europe/Moscow:20261119T115000
-UID:f6073e499a4d390e4d6f889b4a28c708@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261029T094000Z
+DTEND:20261029T110000Z
+DTSTAMP:20261019T150050Z
+UID:519ceea3645d6b34b631f96c80024307@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261126T103000
-DTEND;TZID=Europe/Moscow:20261126T115000
-UID:db0488aa9732675b4261fcca59403979@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261203T103000
-DTEND;TZID=Europe/Moscow:20261203T115000
-UID:13bb44cf368f4ed686b1e075e166f63b@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
+SUMMARY:пр.Культурные коды
+DTSTART:20261029T111000Z
+DTEND:20261029T123000Z
+DTSTAMP:20261019T150050Z
+UID:e768308c86c5eb5bc39fae341943b44a@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б231
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс английского яз
  ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261210T103000
-DTEND;TZID=Europe/Moscow:20261210T115000
-UID:130fb25ac9fb9a7f9ac032d6dd0b50e2@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261217T103000
-DTEND;TZID=Europe/Moscow:20261217T115000
-UID:7d7946409f6fd349fa4ceac86f75f0b3@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261224T103000
-DTEND;TZID=Europe/Moscow:20261224T115000
-UID:154b9811f62292d22464d14f9f3efcb5@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
+DTSTART:20261031T060000Z
+DTEND:20261031T072000Z
+DTSTAMP:20261019T150050Z
+UID:f603d7bf768ffe5f2f4f14cffa01e66a@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс английского яз
  ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260903T124000
-DTEND;TZID=Europe/Moscow:20260903T140000
-UID:d9ce6227d95849b4766fe93f9bb2e857@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
+DTSTART:20261031T073000Z
+DTEND:20261031T085000Z
+DTSTAMP:20261019T150050Z
+UID:014689faa8bc495da5e1fa57a25ddc53@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20260910T124000
-DTEND;TZID=Europe/Moscow:20260910T140000
-UID:1b7c1ad907130b0b613dca3fccd6f531@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20260917T124000
-DTEND;TZID=Europe/Moscow:20260917T140000
-UID:a82b1fa455d88f6faad81592e137b3a3@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20260924T124000
-DTEND;TZID=Europe/Moscow:20260924T140000
-UID:c4142e433dfae1fe058d1f9f8429c4cb@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261001T124000
-DTEND;TZID=Europe/Moscow:20261001T140000
-UID:3210f355e09b743eb751b6aee9c58d05@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261008T124000
-DTEND;TZID=Europe/Moscow:20261008T140000
-UID:71651161cda47a2418ae852a068d98bc@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261015T124000
-DTEND;TZID=Europe/Moscow:20261015T140000
-UID:425c1ca427c1d65e8c1785624d97aacb@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261022T124000
-DTEND;TZID=Europe/Moscow:20261022T140000
-UID:635072fc044186418f0953ff7b4271ad@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261029T124000
-DTEND;TZID=Europe/Moscow:20261029T140000
-UID:e87e32331ef1211e547e72dbf0a8def7@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261105T124000
-DTEND;TZID=Europe/Moscow:20261105T140000
-UID:0fb89d47d7c0c819a4606024ccd8556a@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261112T124000
-DTEND;TZID=Europe/Moscow:20261112T140000
-UID:ac086442117161c1edbabd903c1c6eb5@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261119T124000
-DTEND;TZID=Europe/Moscow:20261119T140000
-UID:c7774e0c050538d38fcc04d11d183826@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261126T124000
-DTEND;TZID=Europe/Moscow:20261126T140000
-UID:e7aaf3e3663655ed9d56d9a34919dd62@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.История языка
-DTSTART;TZID=Europe/Moscow:20261203T124000
-DTEND;TZID=Europe/Moscow:20261203T140000
-UID:8b56dca2965444a4ad8fefe71812c1ae@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:А306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261210T124000
-DTEND;TZID=Europe/Moscow:20261210T140000
-UID:2f91e34817671b7d1a09e0a483a5387f@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
-LOCATION:Б129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261217T124000
-DTEND;TZID=Europe/Moscow:20261217T140000
-UID:73b97a7e5aa4f8316a0738e160bbbcf3@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261224T124000
-DTEND;TZID=Europe/Moscow:20261224T140000
-UID:45742b0ff6cbf77ae65a62f5b256f04c@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
+DTSTART:20261031T094000Z
+DTEND:20261031T110000Z
+DTSTAMP:20261019T150050Z
+UID:21e29fcc2706ef9a406d579516d1c37e@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б128
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260903T141000
-DTEND;TZID=Europe/Moscow:20260903T153000
-UID:841d9285fd7fa66b9d9f36775987f0b5@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20260910T141000
-DTEND;TZID=Europe/Moscow:20260910T153000
-UID:0fc1b4e4eb699babc18f7245756c13af@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20260917T141000
-DTEND;TZID=Europe/Moscow:20260917T153000
-UID:100087edea5bb240a6b40c30be7c9e8d@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:Б230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20260924T141000
-DTEND;TZID=Europe/Moscow:20260924T153000
-UID:8e8fa52934680c6666fc224f348642b8@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:Б127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261001T141000
-DTEND;TZID=Europe/Moscow:20261001T153000
-UID:9fc236dcd4788e3d3c595dadc4f5a337@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261008T141000
-DTEND;TZID=Europe/Moscow:20261008T153000
-UID:8ee204126de1663763480e180c85edc3@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261015T141000
-DTEND;TZID=Europe/Moscow:20261015T153000
-UID:e6222f47f61081587b2d5282fd1aadaf@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261029T141000
-DTEND;TZID=Europe/Moscow:20261029T153000
-UID:78faa6879ab39a7ad771673da4e43462@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:Б231
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261112T141000
-DTEND;TZID=Europe/Moscow:20261112T153000
-UID:42d3ec09b669ec898c90d9513b8b6221@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:Б129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Культурные коды
-DTSTART;TZID=Europe/Moscow:20261119T141000
-DTEND;TZID=Europe/Moscow:20261119T153000
-UID:37c0bd5eadaf226ccecdcabc4b3e23b0@schedule-bot
-DESCRIPTION:проф. Мамедова Н.М.
-LOCATION:А203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261203T141000
-DTEND;TZID=Europe/Moscow:20261203T153000
-UID:e6ecab7232b83c9dc52eca5928b4bff8@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261210T141000
-DTEND;TZID=Europe/Moscow:20261210T153000
-UID:913f7c0d60ffef32e2d64194a4978c65@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261217T141000
-DTEND;TZID=Europe/Moscow:20261217T153000
-UID:63ff7add2cc70d15f5cfbdec3d5c9a56@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261224T141000
-DTEND;TZID=Europe/Moscow:20261224T153000
-UID:d13aacc18a756fcd628154fedc3ae60e@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261015T154000
-DTEND;TZID=Europe/Moscow:20261015T170000
-UID:24a2d8d589841815d7cb242476e88116@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лаб.Информационные технологии в лин
- гвистике
-DTSTART;TZID=Europe/Moscow:20261210T154000
-DTEND;TZID=Europe/Moscow:20261210T170000
-UID:86b2f3656c126323ced5c3c439d6492c@schedule-bot
-DESCRIPTION:доц. Дубровская К.Э.
-LOCATION:А408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261217T154000
-DTEND;TZID=Europe/Moscow:20261217T170000
-UID:cd4b4e00f7c9b4ca334476ba2110d4fa@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261103T060000Z
+DTEND:20261103T072000Z
+DTSTAMP:20261019T150050Z
+UID:fb5c8dbdf7912e9a052271d052241a26@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А202
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260911T090000
-DTEND;TZID=Europe/Moscow:20260911T102000
-UID:bcafb8f31da2d8e6a1f6695ad608d8c7@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А311
+DTSTART:20261103T073000Z
+DTEND:20261103T085000Z
+DTSTAMP:20261019T150050Z
+UID:93b7c64bd6985510dcfd2fcbe81d746e@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261103T094000Z
+DTEND:20261103T110000Z
+DTSTAMP:20261019T150050Z
+UID:14ca73a49e0563818f6f4c79f5419b20@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261103T111000Z
+DTEND:20261103T123000Z
+DTSTAMP:20261019T150050Z
+UID:ecd15a200daa31ad189242a116e9d6aa@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б131
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261120T090000
-DTEND;TZID=Europe/Moscow:20261120T102000
-UID:70e97a25215422f992d11c7c6088b69d@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б231
+DTSTART:20261105T060000Z
+DTEND:20261105T072000Z
+DTSTAMP:20261019T150050Z
+UID:06da5706e4a1e2cb89813f4780a91a56@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202а
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260904T103000
-DTEND;TZID=Europe/Moscow:20260904T115000
-UID:58bd8ed1aa28deb46af6088f92b40276@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А032
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261105T073000Z
+DTEND:20261105T085000Z
+DTSTAMP:20261019T150050Z
+UID:f50a45c310d68b6e62157ae0694328d1@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260911T103000
-DTEND;TZID=Europe/Moscow:20260911T115000
-UID:e166c6046104f799dd5ff9dd617cf4ae@schedule-bot
-DESCRIPTION:доц. Вашкявичус В.Ю.
-LOCATION:А311
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Аудио-визуальный курс китайского
-  языка
-DTSTART;TZID=Europe/Moscow:20261120T103000
-DTEND;TZID=Europe/Moscow:20261120T115000
-UID:c16e57dc80d2e56878249d2a0b1a3fd6@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
-LOCATION:А303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:лек.История языка
-DTSTART;TZID=Europe/Moscow:20260904T124000
-DTEND;TZID=Europe/Moscow:20260904T140000
-UID:8f6ea378a41a9bec35414b9cdd1a4a41@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
+SUMMARY:пр.История языка
+DTSTART:20261105T094000Z
+DTEND:20261105T110000Z
+DTSTAMP:20261019T150050Z
+UID:33ffcda35d48dcf7ae024d9091ea7fb8@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А306
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Аудио-визуальный курс китайского
   языка
-DTSTART;TZID=Europe/Moscow:20261106T124000
-DTEND;TZID=Europe/Moscow:20261106T140000
-UID:ad635f266cd81c321286a91b022d339d@schedule-bot
-DESCRIPTION:ст. пр.  Коробко Д.А.
+DTSTART:20261106T094000Z
+DTEND:20261106T110000Z
+DTSTAMP:20261019T150050Z
+UID:9ce14b6d07a306ef174e3d4ec93a5dd4@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А401
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практический курс общественно-по
- литического перевода
-DTSTART;TZID=Europe/Moscow:20260904T141000
-DTEND;TZID=Europe/Moscow:20260904T153000
-UID:07a962b614cc1ffe56c6bae7117f5735@schedule-bot
-DESCRIPTION:ст. пр.  Фоменко А.В.
-LOCATION:Б225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:пр.Предпереводческий анализ текста
-DTSTART;TZID=Europe/Moscow:20261106T141000
-DTEND;TZID=Europe/Moscow:20261106T153000
-UID:059040c4ee97b84b372c196ddd91812e@schedule-bot
-DESCRIPTION:доц. Скворцов А.В.
+DTSTART:20261106T111000Z
+DTEND:20261106T123000Z
+DTSTAMP:20261019T150050Z
+UID:3049589b6853dddfb0f6a9b4f1164c3a@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс английского яз
  ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260912T090000
-DTEND;TZID=Europe/Moscow:20260912T102000
-UID:70c268bd77cfad9d9f8e90b57bf2b798@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
+DTSTART:20261107T060000Z
+DTEND:20261107T072000Z
+DTSTAMP:20261019T150050Z
+UID:1689fa873437300529d19e9d803357d9@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практический курс английского яз
  ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260919T090000
-DTEND;TZID=Europe/Moscow:20260919T102000
-UID:0c620cc92079b3af11fc56586d364fc2@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260926T090000
-DTEND;TZID=Europe/Moscow:20260926T102000
-UID:971d1fddb02c982d376612ce78df8c74@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261010T090000
-DTEND;TZID=Europe/Moscow:20261010T102000
-UID:cc1781c4ad67af8629adde6dd379e3b3@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261031T090000
-DTEND;TZID=Europe/Moscow:20261031T102000
-UID:a9e21455a75c7a3223b499cebaec7d94@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261107T090000
-DTEND;TZID=Europe/Moscow:20261107T102000
-UID:91c9e02a3b8028cc10b32dede5589afc@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261114T090000
-DTEND;TZID=Europe/Moscow:20261114T102000
-UID:d28cf9429a1f4479affead247b2c8e34@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261128T090000
-DTEND;TZID=Europe/Moscow:20261128T102000
-UID:1a4cc4e5ffc33ebd5879e87f57708e2a@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261205T090000
-DTEND;TZID=Europe/Moscow:20261205T102000
-UID:670b995e921e0412af033b5c02b2e84e@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261219T090000
-DTEND;TZID=Europe/Moscow:20261219T102000
-UID:cc761473a752f02bce8b2eb6140f27a4@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260912T103000
-DTEND;TZID=Europe/Moscow:20260912T115000
-UID:8bcdfe53483c0d548192eceb4e3054e5@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260919T103000
-DTEND;TZID=Europe/Moscow:20260919T115000
-UID:f4972ef60ab899dafbecfbccca6527b5@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20260926T103000
-DTEND;TZID=Europe/Moscow:20260926T115000
-UID:62645c4cc3e9ccaf27a8211568eb82a3@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261003T103000
-DTEND;TZID=Europe/Moscow:20261003T115000
-UID:4e928ab199f53736f1f5f28298cbf84e@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261010T103000
-DTEND;TZID=Europe/Moscow:20261010T115000
-UID:8c802f5b1f3004904cf713afbfa6fb99@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261017T103000
-DTEND;TZID=Europe/Moscow:20261017T115000
-UID:0e9a4b5f98e21c7d0e6eaffbcb4bdc68@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261031T103000
-DTEND;TZID=Europe/Moscow:20261031T115000
-UID:68bc5575963e1f92debb3e1c5c5d518a@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261107T103000
-DTEND;TZID=Europe/Moscow:20261107T115000
-UID:090508b89dc3d638a7df81db7f65fa65@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261114T103000
-DTEND;TZID=Europe/Moscow:20261114T115000
-UID:a7ff3c32e329ef565d5c55ba8c0d6cd9@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261128T103000
-DTEND;TZID=Europe/Moscow:20261128T115000
-UID:1e0c182c52644244816df59b211f99b1@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261205T103000
-DTEND;TZID=Europe/Moscow:20261205T115000
-UID:57c9cd75c23d1f814aa471c6e3e19e59@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261212T103000
-DTEND;TZID=Europe/Moscow:20261212T115000
-UID:c9a9044ff8713731906373769966feee@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261219T103000
-DTEND;TZID=Europe/Moscow:20261219T115000
-UID:c9e5cc98f7aa2827a7fce20a45af4d67@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
-LOCATION:А301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практический курс английского яз
- ыка (пороговый уровень)
-DTSTART;TZID=Europe/Moscow:20261226T103000
-DTEND;TZID=Europe/Moscow:20261226T115000
-UID:16353c135757def6fa3d30a67ef06a4b@schedule-bot
-DESCRIPTION:ас. Чернышова А.И.
+DTSTART:20261107T073000Z
+DTEND:20261107T085000Z
+DTSTAMP:20261019T150050Z
+UID:225acd6c0b874345733e500086f7e4d7@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260912T124000
-DTEND;TZID=Europe/Moscow:20260912T140000
-UID:d126f0124445ea9abf4ce30c55825fb6@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261110T060000Z
+DTEND:20261110T072000Z
+DTSTAMP:20261019T150050Z
+UID:0241af08725396c901e8b7501a6b40cb@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261110T073000Z
+DTEND:20261110T085000Z
+DTSTAMP:20261019T150050Z
+UID:8db13476cc45bec359ce6fcf26cf3c72@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261111T060000Z
+DTEND:20261111T072000Z
+DTSTAMP:20261019T150050Z
+UID:cf371f7bb6b0a73059b6c24778ee97d9@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261111T073000Z
+DTEND:20261111T085000Z
+DTSTAMP:20261019T150050Z
+UID:758bcf56db7a154c7fd970e67d039da2@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261111T094000Z
+DTEND:20261111T110000Z
+DTSTAMP:20261019T150050Z
+UID:e5d1c6b321d7835499f236a8405423a0@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261111T111000Z
+DTEND:20261111T123000Z
+DTSTAMP:20261019T150050Z
+UID:436e024aa137e7c997859a2dfcc2625b@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261112T073000Z
+DTEND:20261112T085000Z
+DTSTAMP:20261019T150050Z
+UID:8fa6c3aaaba7e30cbffd4fca52f03d64@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261112T094000Z
+DTEND:20261112T110000Z
+DTSTAMP:20261019T150050Z
+UID:7b0d9bd8eaa7040cba3bd8dc8d10f90e@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Культурные коды
+DTSTART:20261112T111000Z
+DTEND:20261112T123000Z
+DTSTAMP:20261019T150050Z
+UID:09d00fc01b2f3f10b0f06a574ef5f54d@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261114T060000Z
+DTEND:20261114T072000Z
+DTSTAMP:20261019T150050Z
+UID:64364ecce71ce495c174127fbd6d3489@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261114T073000Z
+DTEND:20261114T085000Z
+DTSTAMP:20261019T150050Z
+UID:563e84441398bc5c3a0aee576c1c941b@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261114T094000Z
+DTEND:20261114T110000Z
+DTSTAMP:20261019T150050Z
+UID:b72a3e225698abb6014a13b352285caf@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261117T060000Z
+DTEND:20261117T072000Z
+DTSTAMP:20261019T150050Z
+UID:a7f2fb4054b61c170ceb22f8ec48b05b@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261117T073000Z
+DTEND:20261117T085000Z
+DTSTAMP:20261019T150050Z
+UID:8bbec2d16dc4ae02023f8091e78fe7ed@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261117T094000Z
+DTEND:20261117T110000Z
+DTSTAMP:20261019T150050Z
+UID:293681c556135ca83822144242e4cd6e@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261118T060000Z
+DTEND:20261118T072000Z
+DTSTAMP:20261019T150050Z
+UID:98943b4e7d42129ec098a3531b19d8df@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261118T073000Z
+DTEND:20261118T085000Z
+DTSTAMP:20261019T150050Z
+UID:d52a92db06926ddd45491134d142cb93@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261118T094000Z
+DTEND:20261118T110000Z
+DTSTAMP:20261019T150050Z
+UID:c9d927dfd4be0ca8f03768e8166f5337@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261119T060000Z
+DTEND:20261119T072000Z
+DTSTAMP:20261019T150050Z
+UID:1689d36e4f589af1789eed3a433f2775@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261119T073000Z
+DTEND:20261119T085000Z
+DTSTAMP:20261019T150050Z
+UID:94d50f59c78c2937f16c16c45a1cc032@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261119T094000Z
+DTEND:20261119T110000Z
+DTSTAMP:20261019T150050Z
+UID:3c65838ecd3defe407bc548c735c11a0@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Культурные коды
+DTSTART:20261119T111000Z
+DTEND:20261119T123000Z
+DTSTAMP:20261019T150050Z
+UID:addef42d58d5bb6b89cf0a04e5978cc9@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261120T060000Z
+DTEND:20261120T072000Z
+DTSTAMP:20261019T150050Z
+UID:d2747f683f9f32140fcd83ed84117b4c@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261120T073000Z
+DTEND:20261120T085000Z
+DTSTAMP:20261019T150050Z
+UID:30e64bb682ad28278112e7198c552684@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261124T060000Z
+DTEND:20261124T072000Z
+DTSTAMP:20261019T150050Z
+UID:10f21839a95ec1e4b05f09d859615933@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261124T073000Z
+DTEND:20261124T085000Z
+DTSTAMP:20261019T150050Z
+UID:806d59cc7df877c15a2b7f9e2d31e40a@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261125T060000Z
+DTEND:20261125T072000Z
+DTSTAMP:20261019T150050Z
+UID:8742e4655470707f5494d41f2a880f82@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261125T073000Z
+DTEND:20261125T085000Z
+DTSTAMP:20261019T150050Z
+UID:12ee46bc88ecc510a6832c9d7e72abb6@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261125T094000Z
+DTEND:20261125T110000Z
+DTSTAMP:20261019T150050Z
+UID:6ad50c2bc2a47c1004d8a93809a19909@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261125T111000Z
+DTEND:20261125T123000Z
+DTSTAMP:20261019T150050Z
+UID:2ed91572fd64cb5d6f56aa5d31ca710f@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261126T073000Z
+DTEND:20261126T085000Z
+DTSTAMP:20261019T150050Z
+UID:dfd4623e7b1b584675469df3d8c93625@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261126T094000Z
+DTEND:20261126T110000Z
+DTSTAMP:20261019T150050Z
+UID:42f4154eb9805f22854d0a5859d8d13d@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261128T060000Z
+DTEND:20261128T072000Z
+DTSTAMP:20261019T150050Z
+UID:1d86531cca4c55da5e91172191abb528@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261128T073000Z
+DTEND:20261128T085000Z
+DTSTAMP:20261019T150050Z
+UID:c45861b1233064e868595b0b985c2e04@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261128T094000Z
+DTEND:20261128T110000Z
+DTSTAMP:20261019T150050Z
+UID:e39b8088178b633f37e4d55e90e297c5@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261201T060000Z
+DTEND:20261201T072000Z
+DTSTAMP:20261019T150050Z
+UID:7dbcbb98bf6741c9959b1b28ec699798@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261201T073000Z
+DTEND:20261201T085000Z
+DTSTAMP:20261019T150050Z
+UID:8ce5187fcdd52aaeeb7e0fd88a13a32b@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261201T094000Z
+DTEND:20261201T110000Z
+DTSTAMP:20261019T150050Z
+UID:cde8e383ce69ea0d71da5921fc4929f6@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Культурные коды
+DTSTART:20261201T111000Z
+DTEND:20261201T123000Z
+DTSTAMP:20261019T150050Z
+UID:4f868cfac6a9f38e83d36d7e6eb43f12@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261202T060000Z
+DTEND:20261202T072000Z
+DTSTAMP:20261019T150050Z
+UID:bc0bdf2cc12da0d5b99e1e091ec53b85@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261202T073000Z
+DTEND:20261202T085000Z
+DTSTAMP:20261019T150050Z
+UID:27dac0cf8448f6f39bf139f771321136@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261203T060000Z
+DTEND:20261203T072000Z
+DTSTAMP:20261019T150050Z
+UID:d6f71481940bdd21dfe8ee27fe021501@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А202а
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260919T124000
-DTEND;TZID=Europe/Moscow:20260919T140000
-UID:ed585d0d5e08fd300a22e8bd0fe514ae@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б127
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261203T073000Z
+DTEND:20261203T085000Z
+DTSTAMP:20261019T150050Z
+UID:11ae2c045eff212452529627a865d420@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.История языка
+DTSTART:20261203T094000Z
+DTEND:20261203T110000Z
+DTSTAMP:20261019T150050Z
+UID:298a0c19c20c9977f1956434f0f16192@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261203T111000Z
+DTEND:20261203T123000Z
+DTSTAMP:20261019T150050Z
+UID:4202a4aaabe998e88d37895dbfa686a5@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261205T060000Z
+DTEND:20261205T072000Z
+DTSTAMP:20261019T150050Z
+UID:64a94c985f4ac87cb79741ac235ad669@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261205T073000Z
+DTEND:20261205T085000Z
+DTSTAMP:20261019T150050Z
+UID:99b384b0051f25fc872970a2e028cdca@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260926T124000
-DTEND;TZID=Europe/Moscow:20260926T140000
-UID:9c5a4aa6d9b28f8b8997559e02554f2c@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б127
+DTSTART:20261208T060000Z
+DTEND:20261208T072000Z
+DTSTAMP:20261019T150050Z
+UID:5068f9a6f54012724576ef4bb01df40e@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А415
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261003T124000
-DTEND;TZID=Europe/Moscow:20261003T140000
-UID:23a8c583acd47c7c24965b3865aeed87@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261208T073000Z
+DTEND:20261208T085000Z
+DTSTAMP:20261019T150050Z
+UID:2b56ff95a3f5fffd47474c4cfde37e1f@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А415
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261209T060000Z
+DTEND:20261209T072000Z
+DTSTAMP:20261019T150050Z
+UID:1d653e36b46543e75bd0d3aa113f353c@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261209T073000Z
+DTEND:20261209T085000Z
+DTSTAMP:20261019T150050Z
+UID:2bcf718872803c01f31e55b052fb9f0d@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261210T073000Z
+DTEND:20261210T085000Z
+DTSTAMP:20261019T150050Z
+UID:f26681d7edd7ed2f29049a1ddba9369f@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261210T094000Z
+DTEND:20261210T110000Z
+DTSTAMP:20261019T150050Z
+UID:e17b6ac40e3d368154a96db9957029ff@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261210T111000Z
+DTEND:20261210T123000Z
+DTSTAMP:20261019T150050Z
+UID:2d064583675d15bb657babf868b74ac4@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261210T124000Z
+DTEND:20261210T140000Z
+DTSTAMP:20261019T150050Z
+UID:fbbff0f2c63638b6c49a99b9337ffdfd@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261212T073000Z
+DTEND:20261212T085000Z
+DTSTAMP:20261019T150050Z
+UID:736a432e128af34b1b4bb43a7f8239fe@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261212T094000Z
+DTEND:20261212T110000Z
+DTSTAMP:20261019T150050Z
+UID:cdd1420075c76de9e9ddc044185225d0@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А201
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261017T124000
-DTEND;TZID=Europe/Moscow:20261017T140000
-UID:f0011de943d8a28a1f1eb264a176ea6d@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261212T111000Z
+DTEND:20261212T123000Z
+DTSTAMP:20261019T150050Z
+UID:339555b8f7c3fe762d61a6918860f62e@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261216T060000Z
+DTEND:20261216T072000Z
+DTSTAMP:20261019T150050Z
+UID:f4b8fd1e7af65efbcd518b16a57f4746@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261216T073000Z
+DTEND:20261216T085000Z
+DTSTAMP:20261019T150050Z
+UID:906d117afcf77b36eaac00cdd30fbe3b@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261216T094000Z
+DTEND:20261216T110000Z
+DTSTAMP:20261019T150050Z
+UID:905db9ebf91a92ac23e1f81711451a76@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261217T073000Z
+DTEND:20261217T085000Z
+DTSTAMP:20261019T150050Z
+UID:2b5ea0e7313177e54f7c9c9b66a9845c@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А408
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261031T124000
-DTEND;TZID=Europe/Moscow:20261031T140000
-UID:b1585b9fc9e11faeec8e792e0fc3ca1f@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261217T094000Z
+DTEND:20261217T110000Z
+DTSTAMP:20261019T150050Z
+UID:0f3ed1055a4eb61445108a780c0e1bb2@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261217T111000Z
+DTEND:20261217T123000Z
+DTSTAMP:20261019T150050Z
+UID:62d0b0e670b3b178b978a9a30d5ebf1d@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261217T124000Z
+DTEND:20261217T140000Z
+DTSTAMP:20261019T150050Z
+UID:b5c7aabd8bc7c963657403a4e380c213@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261219T060000Z
+DTEND:20261219T072000Z
+DTSTAMP:20261019T150050Z
+UID:4e806448b923a913f4cd1a019714c098@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261219T073000Z
+DTEND:20261219T085000Z
+DTSTAMP:20261019T150050Z
+UID:3a053ba03c2b04917d4d7db3c969fa69@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261223T060000Z
+DTEND:20261223T072000Z
+DTSTAMP:20261019T150050Z
+UID:b0b619dae5ea777c7dda1324adab7d54@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс общественно-по
+ литического перевода
+DTSTART:20261223T073000Z
+DTEND:20261223T085000Z
+DTSTAMP:20261019T150050Z
+UID:f9434345b060529f145662bc36232872@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Фоменко А.В.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:Б225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практика устной и письменной реч
+ и (профессиональный уровень)
+DTSTART:20261223T094000Z
+DTEND:20261223T110000Z
+DTSTAMP:20261019T150050Z
+UID:9ca1e462257b603bff08436dacbe188b@schedule-bot
+DESCRIPTION:Преподаватель: доц. Вашкявичус В.Ю
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:лаб.Информационные технологии в лин
+ гвистике
+DTSTART:20261224T060000Z
+DTEND:20261224T072000Z
+DTSTAMP:20261019T150050Z
+UID:e45189199280b88a5dde49c042886230@schedule-bot
+DESCRIPTION:Преподаватель: доц. Дубровская К.Э
+ .
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261224T073000Z
+DTEND:20261224T085000Z
+DTSTAMP:20261019T150050Z
+UID:db56ee877463fbf4aeee1e20b447eb34@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Предпереводческий анализ текста
+DTSTART:20261224T094000Z
+DTEND:20261224T110000Z
+DTSTAMP:20261019T150050Z
+UID:73a787d6305112395da675f7e027c7d9@schedule-bot
+DESCRIPTION:Преподаватель: доц. Скворцов А.В.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:Б128
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261114T124000
-DTEND;TZID=Europe/Moscow:20261114T140000
-UID:7cea6b834bf203183beb404ae6349619@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А032
+SUMMARY:пр.Аудио-визуальный курс китайского
+  языка
+DTSTART:20261224T111000Z
+DTEND:20261224T123000Z
+DTSTAMP:20261019T150050Z
+UID:fb428009a64a8004e762c7a040d7af25@schedule-bot
+DESCRIPTION:Преподаватель: ст. пр.  Коробко Д.А.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:пр.Практический курс английского яз
+ ыка (пороговый уровень)
+DTSTART:20261226T073000Z
+DTEND:20261226T085000Z
+DTSTAMP:20261019T150050Z
+UID:97912780039bfffd3506aa82448c50fd@schedule-bot
+DESCRIPTION:Преподаватель: ас. Чернышова А.И.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261128T124000
-DTEND;TZID=Europe/Moscow:20261128T140000
-UID:cdba035cadee6fd3665984cfa1c4698d@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261212T124000
-DTEND;TZID=Europe/Moscow:20261212T140000
-UID:bc54ebc6634453c84c6a9932076ad584@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261226T094000Z
+DTEND:20261226T110000Z
+DTSTAMP:20261019T150050Z
+UID:2eefb54bf28dfba9b1423f13a40b008f@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А201
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:пр.Практика устной и письменной реч
  и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261226T124000
-DTEND;TZID=Europe/Moscow:20261226T140000
-UID:b85a0e0465a0bba7a14841716d07eb26@schedule-bot
-DESCRIPTION:асс. Жан Ц.
+DTSTART:20261226T111000Z
+DTEND:20261226T123000Z
+DTSTAMP:20261019T150050Z
+UID:a847915fdec1a4c02b44a1f36cd623c3@schedule-bot
+DESCRIPTION:Преподаватель: асс. Жан Ц.
+LAST-MODIFIED:20261019T150050Z
 LOCATION:А201
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20260919T141000
-DTEND;TZID=Europe/Moscow:20260919T153000
-UID:7088859142e8196c3865f26b098f737a@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:Б127
+SUMMARY:пр.Культурные коды
+DTSTART:20261228T060000Z
+DTEND:20261228T072000Z
+DTSTAMP:20261019T150050Z
+UID:31bc76f2990785f53b9faaf3cd8353f1@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261003T141000
-DTEND;TZID=Europe/Moscow:20261003T153000
-UID:7dee598fedebc9f2609ab124eb0ca6dd@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А201
+SUMMARY:пр.Культурные коды
+DTSTART:20261228T073000Z
+DTEND:20261228T085000Z
+DTSTAMP:20261019T150050Z
+UID:eb7bfb1d3fdee419ff9c33892da5a532@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261017T141000
-DTEND;TZID=Europe/Moscow:20261017T153000
-UID:c24e32587d15b7a48d25095a00097609@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261212T141000
-DTEND;TZID=Europe/Moscow:20261212T153000
-UID:de444683a55a1ec7ff7d791fda99a343@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:пр.Практика устной и письменной реч
- и (профессиональный уровень)
-DTSTART;TZID=Europe/Moscow:20261226T141000
-DTEND;TZID=Europe/Moscow:20261226T153000
-UID:86fa10b0b5d5862e0e32ec3a871a9a60@schedule-bot
-DESCRIPTION:асс. Жан Ц.
-LOCATION:А201
+SUMMARY:пр.Культурные коды
+DTSTART:20261228T094000Z
+DTEND:20261228T110000Z
+DTSTAMP:20261019T150050Z
+UID:aed789812197264b47dc716610a2498a@schedule-bot
+DESCRIPTION:Преподаватель: проф. Мамедова Н.М.
+LAST-MODIFIED:20261019T150050Z
+LOCATION:А305
 END:VEVENT
 END:VCALENDAR
