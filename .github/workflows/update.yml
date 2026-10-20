@@ -1,0 +1,31 @@
+name: Update Schedule
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # 20:00 по Москве
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run script
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+        run: python main.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --local user.email 'action@github.com'
+          git add *.ics
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update schedule"
+          git push
