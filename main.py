@@ -194,23 +194,24 @@ def check_changes(new_events, report=True):
     changes = []
     
     if old_events and report:
-        # Фильтруем прошедшие пары (строго больше сегодняшнего дня)
         today_str = datetime.now(TIMEZONE).strftime('%Y-%m-%d')
+        
+        # ИСПРАВЛЕНИЕ: Фильтруем прошедшие пары в ОБОИХ списках
         old_events_filtered = [e for e in old_events if e['date'] > today_str]
+        new_events_filtered = [e for e in serialized_new if e['date'] > today_str]
         
         old_dates = set(e['date'] for e in old_events_filtered)
-        new_dates = set(e['date'] for e in serialized_new)
+        new_dates = set(e['date'] for e in new_events_filtered)
         
         if len(old_dates) > 0 and len(new_dates) > 0:
             intersection = old_dates.intersection(new_dates)
             min_len = min(len(old_dates), len(new_dates))
-            # Смена семестра, если пересечений меньше 20%
             if (len(intersection) / min_len) < 0.2:
                 print("⚠️ Обнаружена смена семестра (даты почти не пересекаются). Отчет не создаем.")
                 changes = []
             else:
                 old_dict = {(e['date'], e['time'], e['subject']): e for e in old_events_filtered}
-                new_dict = {(e['date'], e['time'], e['subject']): e for e in serialized_new}
+                new_dict = {(e['date'], e['time'], e['subject']): e for e in new_events_filtered}
                 
                 for key, new_ev in new_dict.items():
                     if key not in old_dict:
@@ -228,11 +229,9 @@ def check_changes(new_events, report=True):
                     if key not in new_dict:
                         changes.append(f"❌ **Пара отменена:**\n**Дата:** {old_ev['date']}\n**Время:** {old_ev['time']}\n**Предмет:** {old_ev['subject']}")
 
-    # 1. СНАЧАЛА записываем отчет
     if changes:
         changes_dir = os.path.join(BASE_DIR, 'changes')
         os.makedirs(changes_dir, exist_ok=True)
-        
         timestamp = datetime.now(TIMEZONE).strftime('%Y-%m-%d_%H-%M-%S')
         filename = os.path.join(changes_dir, f"{timestamp}.md")
         
@@ -244,7 +243,6 @@ def check_changes(new_events, report=True):
     else:
         print("Изменений нет (расписание актуально).")
                     
-    # 2. ТОЛЬКО ПОТОМ сохраняем слепок атомарно
     temp_json = json_path + '.tmp'
     with open(temp_json, 'w', encoding='utf-8') as f:
         json.dump(serialized_new, f, ensure_ascii=False, indent=2)
